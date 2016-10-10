@@ -4,6 +4,7 @@
   "description": "pulling from an external api and pushing to geckoboard",
   "main": "app.js",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "geckoboard": "^1.1.0"
   },
   "devDependencies": {},
@@ -11,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Owen Kelly",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenkelly/geckoboard_tech_challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/owenkelly/geckoboard_tech_challenge/issues"
+  },
+  "homepage": "https://github.com/owenkelly/geckoboard_tech_challenge#readme"
 }
