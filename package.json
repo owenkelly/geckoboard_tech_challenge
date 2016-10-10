@@ -1,0 +1,15 @@
+{
+  "name": "geckoboard_tech_challenge",
+  "version": "1.0.0",
+  "description": "pulling from an external api and pushing to geckoboard",
+  "main": "app.js",
+  "dependencies": {
+    "geckoboard": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen Kelly",
+  "license": "ISC"
+}
